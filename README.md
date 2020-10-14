@@ -9,8 +9,11 @@
 ### 5. 所建立的 notebook 都是儲存在帳號的  Google Drive 中
 
 
-# Colab 使用Linux 指令 : 
-### ColabTest.ipnb
+# Colab 基本操作 : ColabTest.ipnb
+# 使用 keras 建構卷積內神經網路[CNN] 處理Minst, Cifar10 資料集
+#### Colab_Keras_Mnist_CNN.ipynb
+#### Colab_Keras_Cifar_Deeper_Conv3.ipynb
+
 
 
 # Golab 上傳檔案
