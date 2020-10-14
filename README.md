@@ -1,2 +1,14 @@
-# Colab-and-Jupyter-
-短期實務集訓課程
+# Colab-and-Jupyter
+短期實務集訓課程 : 深耕計畫: 資工系 
+
+
+# Golab 上傳檔案
+from google.colab import files
+uploaded = files.upload()
+
+# 下載檔案
+from google.colab import files
+files.download('xxxx.xx
+')
+
+
