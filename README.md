@@ -5,12 +5,11 @@
 
 
 # Golab 上傳檔案
-from google.colab import files
+from google.colab import files <br>
 uploaded = files.upload()
 
 # 下載檔案
-from google.colab import files
-files.download('xxxx.xx
-')
+from google.colab import files <br>
+files.download('xxxx.xx')
 
 
