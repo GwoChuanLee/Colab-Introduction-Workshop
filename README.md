@@ -13,7 +13,7 @@
 # (二) Colab 基本操作 :
 #### ColabTest.ipnb
 
-# (三) 使用 keras 建構卷積內神經網路處理 Minst, Cifar10 資料集
+# (三) 使用 keras 建構卷積內神經網路處理 Mnst, Cifar10 資料集
 #### Colab_Keras_Mnist_CNN.ipynb
 #### Colab_Keras_Cifar_Deeper_Conv3.ipynb
 
