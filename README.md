@@ -12,7 +12,6 @@
 
 # (二) Colab 基本操作 :
 #### ColabTest.ipnb
-![images](https://github.com/GwoChuanLee/images/blob/main/%E5%9C%96%E7%89%871.png?raw=true =100x100)
 
 # (三) 使用 keras 建構卷積內神經網路[CNN] 處理Minst, Cifar10 資料集
 #### Colab_Keras_Mnist_CNN.ipynb
