@@ -1,5 +1,4 @@
-# Colab-and-Jupyter
-(深耕計畫) 短期實務集訓課程 :  資工系
+# (深耕計畫) 短期實務集訓課程 :  資工系
 
 # (一) Google Colab 簡介: 
 ### 1. Google Colaboratory （簡稱 Google Colab）是一個基於 Jupyter Notebook 的免費服務 <br>
@@ -19,4 +18,6 @@
 
 # (四) Colab 中使用 Yolov3/Darkent :
 #### Yolo3 using Darknet on Colab.ipynb
+
+# Jupyter LAB/HUB 主機: jupyter.csie.nuu.edu.tw
 
