@@ -19,5 +19,6 @@
 # (四) Colab 中使用 Yolov3/Darkent :
 #### Yolo3 using Darknet on Colab.ipynb
 
-# Jupyter LAB/HUB 主機: jupyter.csie.nuu.edu.tw
+# Jupyter LAB/HUB 主機: 
+### jupyter.csie.nuu.edu.tw
 
