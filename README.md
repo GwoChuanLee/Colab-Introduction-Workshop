@@ -15,7 +15,7 @@
 #### Colab_Keras_Mnist_CNN.ipynb
 #### Colab_Keras_Cifar_Deeper_Conv3.ipynb
 
-
+![images](圖片1.png)
 
 # Golab 上傳檔案
 from google.colab import files <br>
