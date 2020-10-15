@@ -28,6 +28,7 @@
 
 # (四) Colab 中使用 Yolov3/Darkent 
 #### Yolo3 using Darknet on Colab.ipynb
+#### <a href="https://medium.com/@upchen_/%E5%A6%82%E4%BD%95%E5%9C%A8-colab-%E5%AE%89%E8%A3%9D-darknet-%E6%A1%86%E6%9E%B6%E8%A8%93%E7%B7%B4-yolo-v3-%E7%89%A9%E4%BB%B6%E8%BE%A8%E8%AD%98%E4%B8%A6%E4%B8%94%E6%9C%80%E4%BD%B3%E5%8C%96-colab-%E7%9A%84%E8%A8%93%E7%B7%B4%E6%B5%81%E7%A8%8B-e5ded7bbab00">在 Colab 安裝 Darknet 框架訓練 YOLO v3 物件辨識</a>
 <a href="https://github.com/GwoChuanLee/Colab-Introduction-Workshop/blob/main/ColabTest.ipynb"> Yolo3 using Darknet on Colab.ipynb </a>
 
 
