@@ -13,7 +13,7 @@
 ## 開啟 Colab 新檔
 <img src="https://github.com/GwoChuanLee/images/blob/main/open.png" width="500"><br>
 ## 變更執行階段類型
-<img src="https://github.com/GwoChuanLee/images/blob/main/changecurrentstate.png" width="800"><br>
+<img src="https://github.com/GwoChuanLee/images/blob/main/changecurrentstate.png" width="00"><br>
 ## 選擇 GPU
 <img src="https://github.com/GwoChuanLee/images/blob/main/selectGPU.png" width="800"> <br>
 ## Colab 基本操作
