@@ -17,10 +17,14 @@
 <img src="https://github.com/GwoChuanLee/images/blob/main/changecurrentstate.png" width="00"><br>
 ## 選擇 GPU
 <img src="https://github.com/GwoChuanLee/images/blob/main/selectGPU.png" width="800"> <br>
+
+##### 資料參考:
+##### 1. 
+##### 2. 
 ## Colab 基本操作
 程式範例:<a href="https://github.com/GwoChuanLee/Colab-Introduction-Workshop/blob/main/ColabTest.ipynb"> ColabTest.ipynb </a>
 
-# (三) 卷積式類神經網路(CNN) Keras 範例
+# (三) 卷積式類神經網路(CNN) Keras 實作
 ####  Minst 資料集訓練 [範例來源: TensorFlow+Keras深度學習人工智慧實務應用/博碩/林大貴著]
 程式範例:<a href="https://github.com/GwoChuanLee/Colab-Introduction-Workshop/blob/main/ColabTest.ipynb"> Colab_Keras_Mnist_CNN.ipynb </a>
 ####  Cifar 資料集訓練 [範例來源: TensorFlow+Keras深度學習人工智慧實務應用/博碩/林大貴著]
