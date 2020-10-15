@@ -1,5 +1,5 @@
 # (深耕計畫) 短期實務集訓課程 :  資工系, 教學發展中心
-# 講題: 雲端技術應用: Colab 操作與應用在人工智慧實務專題
+# 講題: 雲端技術應用: Colab 操作與應用在人工智慧實務專題 [2020/10/16]
 
 # (一) Google Colab 簡介: 
 ### 1. Google Colaboratory （簡稱 Google Colab）是一個基於 Jupyter Notebook 的免費服務 <br>
