@@ -16,7 +16,7 @@
 ## Change State
 [image][https://github.com/GwoChuanLee/images/blob/main/changecurrentstate.png?raw=true]
 ## Select GPU
-[image][]
+[image][https://github.com/GwoChuanLee/images/blob/main/selectGPU.png?raw=true]
 
 # (三) 使用 keras 建構卷積內神經網路處理 Mnst, Cifar10 資料集
 #### Colab_Keras_Mnist_CNN.ipynb
