@@ -35,3 +35,6 @@
 #### 4. <a href="https://chtseng.wordpress.com/2020/02/07/%E4%BD%BF%E7%94%A8google-colab%E8%A8%93%E7%B7%B4yolo/">使用Google Colab訓練YOLO </a> 
 程式範例: <a href="https://github.com/GwoChuanLee/Colab-Introduction-Workshop/blob/main/Yolov3 using Darnet on Colab.ipynb">Yolo3 using Darknet on Colab.ipynb </a>
 
+# (五) 樹莓派使用 Colab 中訓練完的模型
+#### 1. 從 Colab 下載產生的模型
+#### 2. 上傳到樹莓派
