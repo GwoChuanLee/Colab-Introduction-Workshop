@@ -31,6 +31,8 @@
 #### 資料參考:
 #### 1. <a href="https://medium.com/@upchen_/%E5%A6%82%E4%BD%95%E5%9C%A8-colab-%E5%AE%89%E8%A3%9D-darknet-%E6%A1%86%E6%9E%B6%E8%A8%93%E7%B7%B4-yolo-v3-%E7%89%A9%E4%BB%B6%E8%BE%A8%E8%AD%98%E4%B8%A6%E4%B8%94%E6%9C%80%E4%BD%B3%E5%8C%96-colab-%E7%9A%84%E8%A8%93%E7%B7%B4%E6%B5%81%E7%A8%8B-e5ded7bbab00">在 Colab 安裝 Darknet 框架訓練 YOLO v3 物件辨識</a>
 #### 2. <a href="https://colab.research.google.com/drive/1lTGZsfMaGUpBG4inDIQwIJVW476ibXk_">Tutorial DarknetToColab.ipynb</a>
+#### 3. <a href="https://medium.com/@upchen_/%E5%9C%A8-colab-%E4%B8%8A%E5%88%A9%E7%94%A8-yolov3-%E6%A1%86%E6%9E%B6%E5%92%8C%E8%87%AA%E6%9C%89%E6%A8%99%E8%A8%BB%E8%B3%87%E6%96%99%E4%BE%86%E8%A8%93%E7%B7%B4%E8%87%AA%E5%B7%B1%E7%9A%84%E7%89%A9%E4%BB%B6%E8%BE%A8%E8%AD%98%E7%B3%BB%E7%B5%B1-ac36533f99a7">在 Colab 上利用 Yolov3 框架和自有標註資料來訓練自己的物件辨識系統</a>
+#### 4. <a href="https://chtseng.wordpress.com/2020/02/07/%E4%BD%BF%E7%94%A8google-colab%E8%A8%93%E7%B7%B4yolo/">使用Google Colab訓練YOLO </a> 
 <a href="https://github.com/GwoChuanLee/Colab-Introduction-Workshop/blob/main/ColabTest.ipynb"> Yolo3 using Darknet on Colab.ipynb </a>
 
 
