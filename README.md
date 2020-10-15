@@ -12,9 +12,9 @@
 # (二) Colab 基本操作 :
 #### ColabTest.ipynb
 ## 開啟 Colab 新檔
-<img src="https://github.com/GwoChuanLee/images/blob/main/open.png" width="600">
+<img src="https://github.com/GwoChuanLee/images/blob/main/open.png" width="500"><br>
 ## 變更執行階段類型
-<img src="https://github.com/GwoChuanLee/images/blob/main/changecurrentstate.png" width="600">
+<img src="https://github.com/GwoChuanLee/images/blob/main/changecurrentstate.png" width="800"><br>
 ## 選擇 GPU
 <img src="https://github.com/GwoChuanLee/images/blob/main/selectGPU.png" width="800">
 
