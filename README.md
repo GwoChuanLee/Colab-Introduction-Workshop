@@ -11,14 +11,12 @@
 
 # (二) Colab 基本操作 :
 #### ColabTest.ipynb
-## Open Colab Notebook
-![image](https://github.com/GwoChuanLee/images/blob/main/open.png)
+## 開啟 Colab 新檔
 <img src="https://github.com/GwoChuanLee/images/blob/main/open.png" width="600">
-## Change State
+## 變更執行階段類型
 <img src="https://github.com/GwoChuanLee/images/blob/main/changecurrentstate.png" width="600">
-![image](https://github.com/GwoChuanLee/images/blob/main/changecurrentstate.png)
-## Select GPU
-[!image][https://github.com/GwoChuanLee/images/blob/main/selectGPU.png?raw=true]
+## 選擇 GPU
+<img src="https://github.com/GwoChuanLee/images/blob/main/selectGPU.png" width="600">
 
 # (三) 使用 keras 建構卷積內神經網路處理 Mnst, Cifar10 資料集
 #### Colab_Keras_Mnist_CNN.ipynb
