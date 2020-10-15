@@ -1,4 +1,4 @@
-# (深耕計畫) 短期實務集訓課程 :  資工系
+# (深耕計畫) 短期實務集訓課程 :  資工系, 教學發展中心
 
 # (一) Google Colab 簡介: 
 ### 1. Google Colaboratory （簡稱 Google Colab）是一個基於 Jupyter Notebook 的免費服務 <br>
