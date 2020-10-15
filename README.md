@@ -12,7 +12,7 @@
 # (二) Colab 基本操作 :
 #### ColabTest.ipynb
 ## Open Colab Notebook
-[!image][https://github.com/GwoChuanLee/images/blob/main/open.png]
+![image][https://github.com/GwoChuanLee/images/blob/main/open.png]
 ## Change State
 [!image][https://github.com/GwoChuanLee/images/blob/main/changecurrentstate.png?raw=true]
 ## Select GPU
