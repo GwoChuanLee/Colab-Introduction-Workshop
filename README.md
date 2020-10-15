@@ -19,11 +19,16 @@
 ## Colab 基本操作
 <a href="https://github.com/GwoChuanLee/Colab-Introduction-Workshop/blob/main/ColabTest.ipynb"> ColabTest.ipynb </a>
 
-# (三) 使用 keras 建構卷積內神經網路處理 Mnst, Cifar10 資料集
-####  Minst 資料集範例
+# (三) 卷積式內神經網路(CNN) Keras 範例
+####  Minst 資料集
 <a href="https://github.com/GwoChuanLee/Colab-Introduction-Workshop/blob/main/ColabTest.ipynb"> Colab_Keras_Mnist_CNN.ipynb </a>
-####  Cifar 資料集範例
+####  Cifar 資料集
 <a href="https://github.com/GwoChuanLee/Colab-Introduction-Workshop/blob/main/ColabTest.ipynb"> Colab_Keras_Cifar_Deeper_Conv3.ipynb </a>
+####  自建資料集
 
-# (四) Colab 中使用 Yolov3/Darkent :
+# (四) Colab 中使用 Yolov3/Darkent 
 #### Yolo3 using Darknet on Colab.ipynb
+<a href="https://github.com/GwoChuanLee/Colab-Introduction-Workshop/blob/main/ColabTest.ipynb"> Yolo3 using Darknet on Colab.ipynb </a>
+
+# (五) 生成對抗網路
+
