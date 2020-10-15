@@ -15,7 +15,7 @@
 ![image](https://github.com/GwoChuanLee/images/blob/main/open.png)
 <img src="https://github.com/GwoChuanLee/images/blob/main/open.png" width="600">
 ## Change State
-<img src="https://github.com/GwoChuanLee/images/blob/main/changecurrentstate.png" alt="替代文字二" title="範例圖片二" width="800px" height="600px">
+<img src="https://github.com/GwoChuanLee/images/blob/main/changecurrentstate.png" width="600">
 ![image](https://github.com/GwoChuanLee/images/blob/main/changecurrentstate.png)
 ## Select GPU
 [!image][https://github.com/GwoChuanLee/images/blob/main/selectGPU.png?raw=true]
