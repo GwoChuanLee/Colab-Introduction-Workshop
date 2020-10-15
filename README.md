@@ -22,7 +22,7 @@
 
 # (三) 卷積式類神經網路(CNN) Keras 實作
 #### 1. Minst 資料集訓練 [範例來源: TensorFlow+Keras深度學習人工智慧實務應用/博碩/林大貴著]
-程式範例:<a href="https://github.com/GwoChuanLee/Colab-Introduction-Workshop/blob/main/ColabTest.ipynb"> Colab_Keras_Mnist_CNN.ipynb </a>
+程式範例:<a href="https://github.com/GwoChuanLee/Colab-Introduction-Workshop/blob/main/Colab_Keras_Mnist_CNN.ipynb"> Colab_Keras_Mnist_CNN.ipynb </a>
 #### 2. Cifar 資料集訓練 [範例來源: TensorFlow+Keras深度學習人工智慧實務應用/博碩/林大貴著]
 程式範例:<a href="https://github.com/GwoChuanLee/Colab-Introduction-Workshop/blob/main/ColabTest.ipynb"> Colab_Keras_Cifar_Deeper_Conv3.ipynb </a>
 #### 3. 自建資料集 [範例來源]
