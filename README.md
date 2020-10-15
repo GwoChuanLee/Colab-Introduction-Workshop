@@ -25,11 +25,11 @@
 程式範例:<a href="https://github.com/GwoChuanLee/Colab-Introduction-Workshop/blob/main/ColabTest.ipynb"> ColabTest.ipynb </a>
 
 # (三) 卷積式類神經網路(CNN) Keras 實作
-####  Minst 資料集訓練 [範例來源: TensorFlow+Keras深度學習人工智慧實務應用/博碩/林大貴著]
+#### 1. Minst 資料集訓練 [範例來源: TensorFlow+Keras深度學習人工智慧實務應用/博碩/林大貴著]
 程式範例:<a href="https://github.com/GwoChuanLee/Colab-Introduction-Workshop/blob/main/ColabTest.ipynb"> Colab_Keras_Mnist_CNN.ipynb </a>
-####  Cifar 資料集訓練 [範例來源: TensorFlow+Keras深度學習人工智慧實務應用/博碩/林大貴著]
+#### 2. Cifar 資料集訓練 [範例來源: TensorFlow+Keras深度學習人工智慧實務應用/博碩/林大貴著]
 程式範例:<a href="https://github.com/GwoChuanLee/Colab-Introduction-Workshop/blob/main/ColabTest.ipynb"> Colab_Keras_Cifar_Deeper_Conv3.ipynb </a>
-####  自建資料集 [範例來源]
+#### 3. 自建資料集 [範例來源]
 
 # (四) Colab 中使用 Yolov3/Darkent 框架 
 #### 資料參考:
