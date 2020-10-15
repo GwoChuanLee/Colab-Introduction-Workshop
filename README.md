@@ -14,7 +14,9 @@
 ## Open Colab Notebook
 ![image](https://github.com/GwoChuanLee/images/blob/main/open.png)
 ## Change State
-<img src="https://github.com/GwoChuanLee/images/blob/main/changecurrentstate.png" alt="替代文字二" title="範例圖片二" width="900px" height="600px">
+<img src="https://github.com/GwoChuanLee/images/blob/main/changecurrentstate.png" alt="替代文字二" title="範例圖片二" width="800px" height="600px">
+![image](https://github.com/GwoChuanLee/images/blob/main/cgabgecyrrentstate.png)
+[https://github.com/GwoChuanLee/images/blob/main/changecurrentstate.png?raw=true]
 ## Select GPU
 [!image][https://github.com/GwoChuanLee/images/blob/main/selectGPU.png?raw=true]
 
