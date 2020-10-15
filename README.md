@@ -17,10 +17,7 @@
 ## 選擇 GPU
 <img src="https://github.com/GwoChuanLee/images/blob/main/selectGPU.png" width="800"> <br>
 
-##### 資料參考:
-##### 1. 
-##### 2. 
-## Colab 基本操作
+## Colab 基本操作:使用 linux 指令
 程式範例:<a href="https://github.com/GwoChuanLee/Colab-Introduction-Workshop/blob/main/ColabTest.ipynb"> ColabTest.ipynb </a>
 
 # (三) 卷積式類神經網路(CNN) Keras 實作
