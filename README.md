@@ -30,5 +30,4 @@
 #### Yolo3 using Darknet on Colab.ipynb
 <a href="https://github.com/GwoChuanLee/Colab-Introduction-Workshop/blob/main/ColabTest.ipynb"> Yolo3 using Darknet on Colab.ipynb </a>
 
-# (五) 生成對抗網路
 
