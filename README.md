@@ -16,7 +16,7 @@
 ## 變更執行階段類型
 <img src="https://github.com/GwoChuanLee/images/blob/main/changecurrentstate.png" width="600">
 ## 選擇 GPU
-<img src="https://github.com/GwoChuanLee/images/blob/main/selectGPU.png" width="600">
+<img src="https://github.com/GwoChuanLee/images/blob/main/selectGPU.png" width="800">
 
 # (三) 使用 keras 建構卷積內神經網路處理 Mnst, Cifar10 資料集
 #### Colab_Keras_Mnist_CNN.ipynb
