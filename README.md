@@ -16,8 +16,8 @@
 <img src="https://github.com/GwoChuanLee/images/blob/main/changecurrentstate.png" width="800"><br>
 ## 選擇 GPU
 <img src="https://github.com/GwoChuanLee/images/blob/main/selectGPU.png" width="800"> <br>
-### ColabTest.ipynb
-<a href="https://github.com/GwoChuanLee/Colab-Introduction-Workshop/blob/main/ColabTest.ipynb"> ColabTest.ipynb</a>
+## Colab 基本操作
+<a href="https://github.com/GwoChuanLee/Colab-Introduction-Workshop/blob/main/ColabTest.ipynb"> ColabTest.ipynb </a>
 
 # (三) 使用 keras 建構卷積內神經網路處理 Mnst, Cifar10 資料集
 #### Colab_Keras_Mnist_CNN.ipynb
