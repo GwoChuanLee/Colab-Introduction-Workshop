@@ -14,7 +14,7 @@
 ## Open Colab Notebook
 [image][https://github.com/GwoChuanLee/images/blob/main/open.png?raw=true]
 ## Change State
-[image][]
+[image][https://github.com/GwoChuanLee/images/blob/main/changecurrentstate.png?raw=true]
 ## Select GPU
 [image][]
 
